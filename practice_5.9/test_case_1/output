@@ -1,0 +1,12 @@
+0-50
+/run
+/dev/shm
+/run/lock
+/boot
+/boot/efi
+/run/user/1000
+85-95
+/
+>95
+/media/a/CDROM
+/media/a/Ubuntu 22.04 LTS amd64
